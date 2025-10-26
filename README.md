@@ -1,14 +1,4 @@
-# 🧠 Job Management System
-
-[![Java](https://img.shields.io/badge/Java-17+-orange?logo=java)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot)](https://spring.io/projects/spring-boot)
-[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3.x-blue?logo=thymeleaf)](https://www.thymeleaf.org/)
-[![JUnit](https://img.shields.io/badge/Tests-JUnit%20%7C%20Mockito-red?logo=java)](https://junit.org/)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
-
----
-
-## 📚 About
+# Job Management System
 
 This repository contains a **Java-based study project** developed as part of the **Rocketseat Java program**.  
 The goal is to explore backend (focus) and frontend development concepts using **Spring Boot** and **Thymeleaf**, while applying **design patterns**, **testing**, and **code quality** practices.
@@ -31,7 +21,7 @@ The goal is to explore backend (focus) and frontend development concepts using *
 
 ## 🧩 Project Modules
 
-### 1️⃣ REST API Development
+### REST API Development
 We’ll build a **RESTful API** for managing:
 - **Companies**
 - **Job Openings**
@@ -43,7 +33,7 @@ Using **Spring Boot**’s core packages for:
 
 ---
 
-### 2️⃣ Testing & Code Quality
+### Testing & Code Quality
 We’ll implement **unit and integration tests** with:
 - 🧪 **JUnit**  
 - 🤖 **Mockito**
@@ -54,13 +44,13 @@ And ensure code quality through:
 
 ---
 
-### 3️⃣ Front-end with Thymeleaf
+### Front-end with Thymeleaf
 We’ll learn how to use **Thymeleaf**, a template engine fully integrated with Spring,  
 to build dynamic and responsive **front-end pages** for our application.
 
 ---
 
-### 4️⃣ Design Patterns
+### Design Patterns
 We’ll introduce **Software Design Patterns**, exploring:
 - Core **concepts**  
 - Main **classifications**  
